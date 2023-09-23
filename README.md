@@ -3,10 +3,10 @@
 
 🔭 I’m currently looking for a job as a junior software engineer, specifically as a frontend developer or full-stack developer
 
-## What have I worked with?
-Languages:           **TypeScript**, **JavaScript**, **Python**
-Frontend:            **React**, **Next.js**, **React-Hook-Form**, **Axios**, **Zod**, **HTML**, **CSS**
-Backend:             **REST APIs**, **Express**, **Prisma**, **SQLAlchemy**, **FastAPI**, **Pydantic**, **SQLite**, **PostgreSQL**
-Tests:               **Jest**, **Cypress**
-Other technologies:  **GitHub**, **JSON Web Tokens**, **Tailwind**, **Shadcn**, **Docker**, **React Native**
+## What have I worked with?\
+Languages:&ensp;           **TypeScript**, **JavaScript**, **Python**\
+Frontend:&ensp;            **React**, **Next.js**, **React-Hook-Form**, **Axios**, **Zod**, **HTML**, **CSS**\
+Backend:&ensp;             **REST APIs**, **Express**, **Prisma**, **SQLAlchemy**, **FastAPI**, **Pydantic**, **SQLite**, **PostgreSQL**\
+Tests:&ensp;               **Jest**, **Cypress**\
+Other technologies:&ensp;  **GitHub**, **JSON Web Tokens**, **Tailwind**, **Shadcn**, **Docker**, **React Native**\
 
