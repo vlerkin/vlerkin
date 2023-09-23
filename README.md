@@ -8,5 +8,5 @@ Languages:&ensp;**TypeScript**, **JavaScript**, **Python**\
 Frontend:&ensp;**React**, **Next.js**, **React-Hook-Form**, **Axios**, **Zod**, **HTML**, **CSS**\
 Backend:&ensp;**REST APIs**, **Express**, **Prisma**, **SQLAlchemy**, **FastAPI**, **Pydantic**, **SQLite**, **PostgreSQL**\
 Tests:&ensp;**Jest**, **Cypress**\
-Other technologies:&ensp;**GitHub**, **JSON Web Tokens**, **Tailwind**, **Shadcn**, **Docker**, **React Native**\
+Other technologies:&ensp;**GitHub**, **JSON Web Tokens**, **Tailwind**, **Shadcn**, **Docker**, **React Native**
 
