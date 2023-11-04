@@ -1,7 +1,7 @@
 ### Hi, welcome to my github 👋
 
 
-🔭 **I’m currently looking for a job as a junior software engineer, specifically as a frontend developer or full-stack developer**
+🔭 **I’m currently looking for a job as a junior software engineer, specifically as a full-stack developer**
 
 #### What have I worked with?
 Languages:&ensp;**TypeScript**, **JavaScript**, **Python**, **SQL**\
