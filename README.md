@@ -1,7 +1,7 @@
 ### Hi, welcome to my github 👋
 
 
-🔭 **I’m currently looking for a job as a junior software engineer, specifically as a full-stack developer**
+🔭 **I’m a junior software engineer at Python team**
 
 #### What have I worked with?
 Languages:&ensp;**TypeScript**, **JavaScript**, **Python**, **SQL**\
