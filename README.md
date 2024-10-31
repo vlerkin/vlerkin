@@ -1,7 +1,7 @@
 ### Hi, welcome to my github 👋
 
 
-🔭 **I’m a software engineer at Ordina**
+🔭 **I’m a software engineer at Sopra Steria**
 
 #### What have I worked with?
 Languages:&ensp;**TypeScript**, **JavaScript**, **Python**, **SQL**\
